@@ -1,4 +1,4 @@
-# YAPOTI - Yet Another Place On The Internet for someone's collected stuff.
+# Yet another place on the Internet for someone's collected stuff.
 
 Posts:
 <ul>

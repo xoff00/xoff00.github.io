@@ -7,7 +7,7 @@ collections:
   output: true
 
 title: Xoff's Projects
-description: Projects, thoughts, tools, and everything else from a guy
+description: Projects, thoughts, tools, and everything else from a guy on the Internet
 
 show_downloads: false #["true" or "false" (unquoted) to indicate whether to provide a download URL]
 #google_analytics: [Your Google Analytics tracking ID]
